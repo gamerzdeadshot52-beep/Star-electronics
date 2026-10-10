@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# AI crawlers are welcome to index public product information
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+Sitemap: https://starelectronicsganga.in/sitemap-index.xml
